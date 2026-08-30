@@ -1,0 +1,10 @@
+# Binários gerados pelo Makefile
+bin/
+*.o
+*.out
+
+# IDEs e sistema operacional
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
